@@ -1,5 +1,1 @@
-<style>
-.red {color: red}
-</style>
-
-<p class="red">Hi Traveller.</p>
+<h1>Hi Traveller</h1>
