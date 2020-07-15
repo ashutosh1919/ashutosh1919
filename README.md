@@ -1,5 +1,5 @@
-<html>
-    <body>
-      <h1 class="heading">Hi Traveller</h1>
-    </body>
-</html>
+<style>
+.red {color: red}
+</style>
+
+<p class="red">Hi Traveller.</p>
