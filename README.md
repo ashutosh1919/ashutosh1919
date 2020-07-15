@@ -1,8 +1,3 @@
-<html>
-  <head>
-      <link href="style.css" rel="stylesheet"></link>
-  </head>
-<body>
-<h1 class="heading">Hi Traveller</h1>
-</body>
-</html>
+# Hi Traveller
+
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
