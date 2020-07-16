@@ -1,4 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-	<h1 class="custom_title">Unicorns</h1>
-	<p>All the things</p>
+# Hi Traveller
+
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
