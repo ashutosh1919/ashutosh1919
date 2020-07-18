@@ -3,7 +3,8 @@
 
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="50" /></a>
 <a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="50" /></a>
-<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:facebook?source=test" width="50" /></a>
-<a href="https://twitter.com/ashutosh_1919"><img src="https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:twitter?source=test" width="50" /></a>
+<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="50" /></a>
+<a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="50" /></a>
+<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="50" /></a>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
