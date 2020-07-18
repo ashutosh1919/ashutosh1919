@@ -9,4 +9,4 @@
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
 
-<img "https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
