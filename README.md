@@ -7,6 +7,9 @@
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="50" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="50" /></a>
 
+<h3>Data Scientist</h3>
+<h3>Full Stack Developer</h3>
+
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
 
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
