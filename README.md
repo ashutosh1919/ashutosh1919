@@ -7,12 +7,18 @@
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="50" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="50" /></a>
 
+<h2>What I do?</h2>
 <details>
 <summary>Data Scientist</summary>
 <ul>
   <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
   <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
   <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
+  <li><a href="https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
+  <li><a href="https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
+  <li><a href="https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
+  <li><a href="https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
+  <li>Many more on and out of Github...</li>
 </ul>
 </details>
 <h3>Full Stack Developer</h3>
