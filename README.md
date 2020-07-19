@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="50" /></a>
 <a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="50" /></a>
 <a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="50" /></a>
+<a href="mailto:ashutoshhathidara98@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="50" /></a>
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="50" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="50" /></a>
 
