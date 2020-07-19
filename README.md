@@ -7,7 +7,7 @@
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="50" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="50" /></a>
 
-<h2>What I do?</h2>
+<h3>What I do?</h3>
 <details>
 <summary>Data Scientist</summary>
 <ul>
@@ -21,7 +21,16 @@
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
-<h3>Full Stack Developer</h3>
+<details>
+<summary>Full Stack Developer</summary>
+  <ul>
+    <li><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
+    <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
+    <li><a href="https://github.com/ashutosh1919/neurostack">neurostack</a></li>
+    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+    <li>Many more on and out of Github...</li>
+  </ul>
+</details>
 <h3>Community Influencer</h3>
 <h3>Opensource Contributor</h3>
 
