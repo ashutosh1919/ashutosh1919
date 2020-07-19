@@ -71,6 +71,16 @@
   H: Humble
   </pre>
 </details>
+<details>
+  <summary>How can I believe that you are good at what you do?</summary>
+  <ul>
+    <li>In Sept. 2019, I was invited to Google Machine Learning Summit at Google Hyderabad for my exceptional interest in AI.</li>
+    <li>Also, I was selected as one of 120 Google Explore ML Facilitators from India to spread awareness about AI in students.
+In May 2019, I was selected as Microsoft Student Partner to teach students about Cloud Infrastructure and to demonstrate deployments of applications and ML models on Azure.</li>
+    <li>In July 2019, I became Mozilla Campus Captain. With this, I started an open source community in the college to build open source projects. Under this program, I have also organised a hackathon in campus.</li>
+    <li>In Sept. 2018, I designed application architecture for a startup named Muffito. I was also managing the complete application development process.</li>
+  </ul>
+</details>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
 
