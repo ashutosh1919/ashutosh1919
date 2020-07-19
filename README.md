@@ -38,7 +38,13 @@
   <li>Join Me on LinkedIn to see my daily posts.</li>
 </ul>
 </details>
-<h3>Opensource Contributor</h3>
+<details>
+<summary>Opensource Contributor</summary>
+  <ul>
+    <li>You can get detailed information of my contributions <a href="https://ashutoshhathidara.com/#/opensource">here</a>.</li>
+    <li>You can also scroll down and get the information on my <a href="https://github.com/ashutosh1919">github profile</a>.</li>
+  </ul>
+</details>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
 
