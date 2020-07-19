@@ -58,8 +58,8 @@
 <details>
   <summary>Who are you?</summary>
   <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems
-  to create impact.<br>
+  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
+  technical systems to create impact.<br>
   My name describes my qualities,
   A: Active Learner
   S: Sociable
