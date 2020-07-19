@@ -31,7 +31,13 @@
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
-<h3>Community Influencer</h3>
+<details>
+<summary>Community Influencer</summary>
+<ul>
+  <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
+  <li>Join Me on LinkedIn to see my daily posts.</li>
+</ul>
+</details>
 <h3>Opensource Contributor</h3>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
