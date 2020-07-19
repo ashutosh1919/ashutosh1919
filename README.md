@@ -81,6 +81,14 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
     <li>In Sept. 2018, I designed application architecture for a startup named Muffito. I was also managing the complete application development process.</li>
   </ul>
 </details>
+<details>
+<summary>What do you do other than building AI systems?</summary>
+  <ul>
+    <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://ashutoshhathidara.wordpress.com">ashutoshhathidara.wordpress.com</a>.</li>
+    <li>I am a public speaker and a member of AMP (Association of Muslim Profession). We work for educating students to deal with very basic but important problems which eventually build their character.</li>
+    <li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
+  </ul>
+</details>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
 
