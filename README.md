@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="50" /></a>
 
 <details>
-<summary><h3>Data Scientist</h3></summary>
+<summary>Data Scientist</summary>
 <ul>
   <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
   <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
