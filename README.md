@@ -8,7 +8,7 @@
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="50" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="50" /></a>
 
-<h3>What I do?</h3>
+<h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Data Scientist</summary>
 <ul>
