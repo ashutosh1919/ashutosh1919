@@ -32,6 +32,13 @@
   </ul>
 </details>
 <details>
+  <summary>Associate Artificial Intelligence Engineer at <a href="https://www.legatohealth.com/">Legato</a></summary>
+  <ul>
+    <li>Working on core AI products to simplify healthcare system at scale.</li>
+    <li>Applying AI on different large problems in the field of Oncology, Process Improvement and Rapid Engineeing.</li>
+  </ul>
+</details>
+<details>
 <summary>Community Influencer</summary>
 <ul>
   <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
