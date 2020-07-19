@@ -90,6 +90,13 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
   </ul>
 </details>
 
+<h3>What if you like my work?</h3>
+<ul>
+  <li>You can donate 💰 me 1 USD on my <a href="https://www.patreon.com/ashutosh1919">patreon profile</a>.</li>
+  <li>You can Star ⭐ the repositories you like.</li>
+  <li>You can react ❤️ to my LinkedIn posts.</li>
+</ul>
+
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
 
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
