@@ -7,7 +7,14 @@
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="50" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="50" /></a>
 
+<details>
 <h3>Data Scientist</h3>
+<ul>
+  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
+  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
+  <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
+</ul>
+</details>
 <h3>Full Stack Developer</h3>
 <h3>Community Influencer</h3>
 <h3>Opensource Contributor</h3>
