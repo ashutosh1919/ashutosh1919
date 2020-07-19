@@ -10,7 +10,7 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Data Scientist</summary>
+<summary>Data Scientist 📊</summary>
 <ul>
   <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
   <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
@@ -23,7 +23,7 @@
 </ul>
 </details>
 <details>
-<summary>Full Stack Developer</summary>
+<summary>Full Stack Developer 🍥</summary>
   <ul>
     <li><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
     <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
@@ -33,21 +33,21 @@
   </ul>
 </details>
 <details>
-  <summary>Associate Artificial Intelligence Engineer at <a href="https://www.legatohealth.com/">Legato</a></summary>
+  <summary>Associate Artificial Intelligence Engineer at <a href="https://www.legatohealth.com/">Legato</a> 🤖</summary>
   <ul>
     <li>Working on core AI products to simplify healthcare system at scale.</li>
     <li>Applying AI on different large problems in the field of Oncology, Process Improvement and Rapid Engineeing.</li>
   </ul>
 </details>
 <details>
-<summary>Community Influencer</summary>
+<summary>Community Influencer 👁️‍🗨️</summary>
 <ul>
   <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
   <li>Join Me on LinkedIn to see my daily posts.</li>
 </ul>
 </details>
 <details>
-<summary>Opensource Contributor</summary>
+<summary>Opensource Contributor 📝</summary>
   <ul>
     <li>You can get detailed information of my contributions <a href="https://ashutoshhathidara.com/#/opensource">here</a>.</li>
     <li>You can also scroll down and get the information on my <a href="https://github.com/ashutosh1919">github profile</a>.</li>
@@ -56,7 +56,7 @@
 
 <h3>The Questions You May Have</h3>
 <details>
-  <summary>Who are you?</summary>
+  <summary>Who are you? 👨</summary>
   <pre>
   A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
   technical systems to create impact.<br>
@@ -72,7 +72,7 @@
   </pre>
 </details>
 <details>
-  <summary>How can I believe that you are good at what you do?</summary>
+  <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
   <ul>
     <li>In Sept. 2019, I was invited to Google Machine Learning Summit at Google Hyderabad for my exceptional interest in AI.</li>
     <li>Also, I was selected as one of 120 Google Explore ML Facilitators from India to spread awareness about AI in students.
@@ -82,7 +82,7 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
   </ul>
 </details>
 <details>
-<summary>What do you do other than building AI systems?</summary>
+<summary>What do you do other than building AI systems? 💁‍♂️</summary>
   <ul>
     <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://ashutoshhathidara.wordpress.com">ashutoshhathidara.wordpress.com</a>.</li>
     <li>I am a public speaker and a member of AMP (Association of Muslim Profession). We work for educating students to deal with very basic but important problems which eventually build their character.</li>
@@ -90,7 +90,7 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
   </ul>
 </details>
 
-<h3>What if you like my work?</h3>
+<h3>What if you like my work? 🤩</h3>
 <ul>
   <li>You can donate 💰 me 1 USD on my <a href="https://www.patreon.com/ashutosh1919">patreon profile</a>.</li>
   <li>You can Star ⭐ the repositories you like.</li>
