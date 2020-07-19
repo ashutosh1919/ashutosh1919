@@ -9,6 +9,8 @@
 
 <h3>Data Scientist</h3>
 <h3>Full Stack Developer</h3>
+<h3>Community Influencer</h3>
+<h3>Opensource Contributor</h3>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
 
