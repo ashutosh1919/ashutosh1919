@@ -58,16 +58,17 @@
 <details>
   <summary>Who are you?</summary>
   <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.<br><br>
-  My name describes my qualities,<br>
-  A: Active Learner<br>
-  S: Sociable<br>
-  H: Hard working<br>
-  U: Ultra-precise<br>
-  T: Trustworthy<br>
-  O: Open minded to create new things<br>
-  S: Supportive<br>
-  H: Humble<br>
+  A passionate individual who always thrive to work on end to end products which develop 
+  sustainable and scalable social and technical systems to create impact.<br>
+  My name describes my qualities,
+  A: Active Learner
+  S: Sociable
+  H: Hard working
+  U: Ultra-precise
+  T: Trustworthy
+  O: Open minded to create new things
+  S: Supportive
+  H: Humble
   </pre>
 </details>
 
