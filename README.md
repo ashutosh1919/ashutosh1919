@@ -57,8 +57,9 @@
 <h3>The Questions You May Have</h3>
 <details>
   <summary>Who are you?</summary>
-  <pre-wrap>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.<br>
+  <pre>
+  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems
+  to create impact.<br>
   My name describes my qualities,
   A: Active Learner
   S: Sociable
@@ -68,7 +69,7 @@
   O: Open minded to create new things
   S: Supportive
   H: Humble
-  </pre-wrap>
+  </pre>
 </details>
 
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
