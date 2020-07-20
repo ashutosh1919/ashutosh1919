@@ -97,6 +97,6 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
+![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
 
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
