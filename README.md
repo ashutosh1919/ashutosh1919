@@ -12,8 +12,6 @@
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
-<a href="https://www.patreon.com/bePatron?u=38768557" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
 <h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Data Scientist 📊</summary>
