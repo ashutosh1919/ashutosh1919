@@ -103,4 +103,12 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
 </ul>
 
 ![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=ashutosh1919&color=blueviolet)  
-[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)  
+
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
+<!-- [![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)   -->
